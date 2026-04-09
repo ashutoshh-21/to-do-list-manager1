@@ -1,0 +1,12 @@
+[
+  {"title":"Submit machine learning assignment","description":"Complete regression and classification exercises","priority":"high","category":"College","due_date":"2025-06-10","completed":0,"created_at":"2025-05-20 09:00:00","completed_at":null},
+  {"title":"Study neural networks chapter","description":"Focus on backpropagation and gradient descent","priority":"high","category":"Study","due_date":"2025-06-08","completed":0,"created_at":"2025-05-21 10:00:00","completed_at":null},
+  {"title":"Morning jog 30 minutes","description":"Cardio workout","priority":"low","category":"Health","due_date":null,"completed":1,"created_at":"2025-05-22 07:00:00","completed_at":"2025-05-22 07:35:00"},
+  {"title":"Pay electricity bill","description":"Online payment via portal","priority":"medium","category":"Finance","due_date":"2025-06-05","completed":0,"created_at":"2025-05-22 11:00:00","completed_at":null},
+  {"title":"Read Python documentation","description":"Review standard library modules","priority":"low","category":"Study","due_date":null,"completed":1,"created_at":"2025-05-23 14:00:00","completed_at":"2025-05-23 16:00:00"},
+  {"title":"Lab submission data structures","description":"Upload code to portal before deadline","priority":"high","category":"College","due_date":"2025-06-03","completed":0,"created_at":"2025-05-24 09:00:00","completed_at":null},
+  {"title":"Weekly grocery shopping","description":"Vegetables, milk, eggs, bread","priority":"medium","category":"Personal","due_date":null,"completed":1,"created_at":"2025-05-25 10:00:00","completed_at":"2025-05-25 11:30:00"},
+  {"title":"Prepare project presentation slides","description":"10 slides covering methodology and results","priority":"high","category":"College","due_date":"2025-06-15","completed":0,"created_at":"2025-05-26 08:00:00","completed_at":null},
+  {"title":"Evening meditation 15 min","description":"Mindfulness practice","priority":"low","category":"Health","due_date":null,"completed":1,"created_at":"2025-05-27 20:00:00","completed_at":"2025-05-27 20:20:00"},
+  {"title":"Review savings account interest","description":"Check bank app for interest rates","priority":"low","category":"Finance","due_date":null,"completed":0,"created_at":"2025-05-28 09:00:00","completed_at":null}
+]
