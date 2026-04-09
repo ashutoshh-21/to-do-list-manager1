@@ -229,6 +229,6 @@ Submitted as BYOP project — Fundamentals in AI and ML (CSA2001).
 
 ## 👤 Author
 
-**Your Name**
-Reg No: XXXXXXXX
+**Ashutosh Bhutekar**
+Reg No: 25BAI11422
 Course: Fundamentals in AI and ML — CSA2001
