@@ -5,8 +5,8 @@
 ---
 
 **Submitted by**
-Student Name: [Your Name]
-Reg No: [Your Registration Number]
+Student Name: [Ashutosh Bhutekar]
+Reg No: [25BAI11422]
 Course: Fundamentals in AI and ML — CSA2001
 
 ---
